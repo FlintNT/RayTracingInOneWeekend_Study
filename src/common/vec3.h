@@ -7,6 +7,7 @@
 using std::sqrt;
 using std::fabs;
 
+// 3-dimension vector
 class vec3 {
     public:
         double e[3];

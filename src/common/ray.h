@@ -3,6 +3,7 @@
 
 #include "vec3.h"
 
+// 3-dimension ray
 class ray {
 public:
 	ray() {}
