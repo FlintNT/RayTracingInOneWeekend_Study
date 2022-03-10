@@ -11,6 +11,7 @@ set ( CMAKE_CXX_STANDARD 11 )
 # Source
 set ( COMMON_ALL 
     src/common/vec3.h
+    src/common/ray.h
 )
 
 set ( SOURCE_ONE_WEEKEND 
