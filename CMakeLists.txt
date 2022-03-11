@@ -17,6 +17,7 @@ set ( COMMON_ALL
 set ( SOURCE_ONE_WEEKEND 
     ${COMMON_ALL}
     src/InOneWeekend/main.cpp
+    src/InOneWeekend/hittable.h
 )
 
 # Executables

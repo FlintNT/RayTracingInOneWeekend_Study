@@ -18,7 +18,7 @@ public:
 	// 11
 	point3 at(double t) const;
 
-public:
+private:
 	point3 orig;
 	vec3 dir;
 };
