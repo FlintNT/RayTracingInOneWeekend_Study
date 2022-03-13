@@ -15,7 +15,7 @@ public:
 	// direction of ray
 	vec3 direction() const { return dir; }
 
-	// 11
+	// position of ray when time = t
 	point3 at(double t) const;
 
 private:
